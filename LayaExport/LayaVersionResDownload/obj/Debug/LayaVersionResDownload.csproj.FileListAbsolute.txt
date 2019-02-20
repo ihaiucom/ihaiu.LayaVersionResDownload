@@ -1,0 +1,14 @@
+E:\zengfeng\githubs\ihaiu.LayaVersionResDownload\LayaExport\LayaVersionResDownload\obj\Debug\LayaVersionResDownload.csproj.CoreCompileInputs.cache
+E:\zengfeng\githubs\ihaiu.LayaVersionResDownload\LayaExport\LayaVersionResDownload\obj\Debug\LayaVersionResDownload.AssemblyInfoInputs.cache
+E:\zengfeng\githubs\ihaiu.LayaVersionResDownload\LayaExport\LayaVersionResDownload\obj\Debug\LayaVersionResDownload.AssemblyInfo.cs
+E:\zengfeng\githubs\ihaiu.LayaVersionResDownload\LayaExport\bin\NLog.config
+E:\zengfeng\githubs\ihaiu.LayaVersionResDownload\LayaExport\bin\NLog.xsd
+E:\zengfeng\githubs\ihaiu.LayaVersionResDownload\LayaExport\bin\LayaVersionResDownload.deps.json
+E:\zengfeng\githubs\ihaiu.LayaVersionResDownload\LayaExport\bin\LayaVersionResDownload.runtimeconfig.json
+E:\zengfeng\githubs\ihaiu.LayaVersionResDownload\LayaExport\bin\LayaVersionResDownload.runtimeconfig.dev.json
+E:\zengfeng\githubs\ihaiu.LayaVersionResDownload\LayaExport\bin\LayaVersionResDownload.dll
+E:\zengfeng\githubs\ihaiu.LayaVersionResDownload\LayaExport\bin\LayaVersionResDownload.pdb
+E:\zengfeng\githubs\ihaiu.LayaVersionResDownload\LayaExport\LayaVersionResDownload\obj\Debug\LayaVersionResDownload.csproj.CopyComplete
+E:\zengfeng\githubs\ihaiu.LayaVersionResDownload\LayaExport\LayaVersionResDownload\obj\Debug\LayaVersionResDownload.dll
+E:\zengfeng\githubs\ihaiu.LayaVersionResDownload\LayaExport\LayaVersionResDownload\obj\Debug\LayaVersionResDownload.pdb
+E:\zengfeng\githubs\ihaiu.LayaVersionResDownload\LayaExport\LayaVersionResDownload\obj\Debug\LayaVersionResDownload.csprojAssemblyReference.cache

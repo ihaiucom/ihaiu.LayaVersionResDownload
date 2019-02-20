@@ -1,0 +1,15 @@
+{
+  "game": [
+	"game/secenani/img_changesceneBG.jpg",
+	"game/secenani.atlas",
+	"game/sceneBg/img_main_bg.jpg",
+	"game/home.atlas",
+	"game/main.atlas",
+	"game/ani.atlas",
+	"game/ani/BigCoinAni.atlas",
+	"game/home_map.atlas",
+	"game/banner.atlas", 
+	"game/main_mengwu.atlas", 
+	"game/turntable_thumbnail.atlas"
+  ]
+}

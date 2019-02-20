@@ -1,0 +1,8 @@
+{
+  "autoEnd": true,
+  "cmd": "mergejs",
+  "optionSetting": "./LayaVersionResDownload_Setting.json",
+  "outDir": "../LayaGameOut",
+  "versionPath": "./layagame_version.json",
+  "httpRoot": "https://g48.gsf.netease.com/cdn_res_md03jf7h573wh3djkkmj/"
+}
